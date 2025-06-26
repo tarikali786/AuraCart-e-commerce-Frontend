@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", "Montserrat", sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+
+@theme {
+  --color-primary: #007bff;
+  --color-secondry: #00bfff;
+}
