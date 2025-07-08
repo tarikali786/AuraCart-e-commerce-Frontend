@@ -7,10 +7,11 @@ body {
 }
 html {
   scroll-behavior: smooth;
+  color: #037ec5;
 }
 
 @theme {
   --color-primary: #007bff;
   --color-secondry: #00bfff;
+  --color-third: #037ec5;
 }
-
